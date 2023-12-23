@@ -1,0 +1,22 @@
+INSERT INTO questions (category, text, correct_answer, wrong_answer1, wrong_answer2)
+VALUES
+    ('LotR', 'What is the name of the spider in Shelob''s lair?', 'Shelob', 'Ungoliant', 'Arachne'),
+    ('LotR', 'Who forged the One Ring in the fires of Mount Doom?', 'Sauron', 'Celebrimbor', 'Melkor'),
+    ('LotR', 'What is the name of the enchanted forest in The Fellowship of the Ring?', 'Lothlórien', 'Fangorn', 'Mirkwood'),
+    ('LotR', 'Which king does Aragorn reveal himself to be in The Return of the King?', 'Elessar', 'Elendil', 'Isildur'),
+    ('LotR', 'What is the name of Boromir and Faramir''s father?', 'Denethor', 'Théoden', 'Borondir'),
+    ('LotR', 'Who is the master of Rivendell and a member of the White Council?', 'Elrond', 'Galadriel', 'Celeborn'),
+    ('LotR', 'What race is Legolas?', 'Elf', 'Dwarf', 'Human'),
+    ('LotR', 'What is the Eye of Sauron?', 'A symbol of Sauron''s power and surveillance', 'Sauron''s pet', 'A magical artifact'),
+    ('LotR', 'What is the name of Frodo''s sword?', 'Sting', 'Andúril', 'Glamdring'),
+    ('LotR', 'Who is the Dark Lord that corrupted Saruman?', 'Morgoth', 'Melkor', 'Sauron'),
+    ('OCR', 'In Spartan Race, what is the penalty for failing an obstacle?', '30 burpees', '50 jumping jacks', '20 push-ups'),
+    ('OCR', 'Which OCR event is known for its "Trifecta" challenge?', 'Spartan Race', 'Tough Mudder', 'Warrior Dash'),
+    ('OCR', 'What material are Spartan Race Trifecta medals made of?', 'Metal', 'Plastic', 'Wood'),
+    ('OCR', 'In Tough Mudder, what is the signature obstacle featuring a field of live wires?', 'Electroshock Therapy', 'Arctic Enema', 'Mud Mile'),
+    ('OCR', 'Which OCR event includes obstacles like the "Twister" and "Multi-Rig"?', 'Savage Race', 'Rugged Maniac', 'Mud Hero'),
+    ('OCR', 'What is the distance of a standard Spartan Race Sprint?', 'Approximately 5 kilometers', '10 miles', 'Half marathon'),
+    ('OCR', 'Which OCR series features obstacles designed by British Royal Marines?', 'Toughest', 'Bone Frog Challenge', 'Conquer The Gauntlet'),
+    ('OCR', 'What is the main objective of the OCR World Championships?', 'Crown the best OCR athletes in the world', 'Raise money for charity', 'Promote healthy living'),
+    ('OCR', 'Which OCR event is known for its "Legionnaire" program?', 'Tough Mudder', 'Spartan Race', 'Rugged Maniac'),
+    ('OCR', 'In which OCR event might you encounter the "Stairway to Sparta" obstacle?', 'Spartan Race', 'Mudderella', 'Rugged Maniac');
